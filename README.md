@@ -1,6 +1,6 @@
 # FilingIQ — Regulatory Intelligence Platform
 
-An AI-powered Streamlit app that turns regulatory filings (SEC 10-K / 10-Q, SEBI annual reports, earnings releases) into structured intelligence. Upload a filing PDF and get a research-grade summary, financial visualizations, and a retrieval-grounded Q&A chat.
+An AI-powered Streamlit app that turns regulatory filings (SEBI annual reports, earnings releases) into structured intelligence. Upload a filing PDF and get a research-grade summary, financial visualizations, and a retrieval-grounded Q&A chat.
 
 Built during a TCS AI hackathon.
 
